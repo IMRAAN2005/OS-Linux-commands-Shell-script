@@ -43,6 +43,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+![image](https://github.com/IMRAAN2005/OS-Linux-commands-Shell-script/assets/149347407/5d7ac0d0-0a2f-4e00-9a9c-0063e3ec94fd)
 
 
 cat < file2
